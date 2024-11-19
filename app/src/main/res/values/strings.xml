@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Plane Geometry Simulator</string>
+    <string name="title_activity_main">Plane Geometry Simulator</string>
+    <string name="package_name">com.example.planegeo</string>
+    <string name="custom_url_scheme">com.example.planegeo</string>
+</resources>
